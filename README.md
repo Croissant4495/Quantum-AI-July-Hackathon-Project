@@ -1,7 +1,7 @@
 README
 Project Name: [Quantum AI Hackathon Project]
 
-This project was submitted for the **Quantum AI Hackathon** by **Team 3.
+This project was submitted for the **Quantum AI Hackathon** by Team 3.
 --------------------------------------
 Team Members
 --------------------------------------
